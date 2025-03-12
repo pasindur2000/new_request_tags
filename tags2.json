@@ -1,0 +1,56 @@
+{
+  "data": {
+    "nodes": [
+     {
+      "name": "Birdwatching",
+      "nid": "67adf2cebbb25ebcb404531e",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Gardening",
+      "nid": "67adf2cebbb25ebcb40452df",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Photography",
+      "nid": "67adf2cebbb25ebcb40452e0",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Painting",
+      "nid": "67adf2cebbb25ebcb40452e1",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Hiking",
+      "nid": "67adf2cebbb25ebcb40452eb",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Camping",
+      "nid": "67adf2cebbb25ebcb40452ec",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Fishing",
+      "nid": "67adf2cebbb25ebcb40452ed",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Cycling",
+      "nid": "67adf2cebbb25ebcb40452ee",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Yoga",
+      "nid": "67adf2cebbb25ebcb4045300",
+      "type": "HOBBIES"
+    },
+    {
+      "name": "Swimming",
+      "nid": "67adf2cebbb25ebcb40452f0",
+      "type": "HOBBIES"
+    }
+    ]
+  }
+}
